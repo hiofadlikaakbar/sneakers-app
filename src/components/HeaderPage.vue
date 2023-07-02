@@ -3,7 +3,7 @@
     <nav>
       <div
         data-aos="fade-right"
-        data-aos-duration="800"
+        data-aos-duration="500"
         data-aos-easing="ease-in"
         class="flex justify-between items-center px-6"
       >

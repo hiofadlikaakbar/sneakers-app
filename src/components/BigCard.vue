@@ -3,7 +3,7 @@
     <div
       ref="aosContainer"
       data-aos="fade-left"
-      data-aos-duration="800"
+      data-aos-duration="500"
       data-aos-easing="ease-in"
     >
       <div ref="swiperContainer" class="swiper-container rounded-lg">
@@ -33,12 +33,12 @@
                   {{ item.price }}
                 </h1>
               </div>
-              <button
-                class="px-3 py-2 bg-[#FF9374] rounded-full"
+              <span
+                class="px-3 py-2 cursor-pointer bg-[#FF9374] rounded-full"
                 @click="toggleFavorite(index)"
               >
                 <i :class="favoriteIcon(index)"></i>
-              </button>
+              </span>
             </div>
 
             <router-link

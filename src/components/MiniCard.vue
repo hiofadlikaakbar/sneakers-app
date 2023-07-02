@@ -2,7 +2,7 @@
   <div class="px-6 pb-10">
     <h1
       data-aos="fade-right"
-      data-aos-duration="800"
+      data-aos-duration="500"
       data-aos-easing="ease-in"
       class="font-mont text-2xl xs:text-3xl mb-6 text-[#111827] font-bold"
     >
@@ -13,7 +13,7 @@
         ref="swiperContainer"
         class="swiper-container"
         data-aos="fade-left"
-        data-aos-duration="800"
+        data-aos-duration="500"
         data-aos-easing="ease-in"
       >
         <div class="swiper-wrapper">

@@ -4,7 +4,7 @@
       <div class="bg-[#FF9374] rounded-b-[3rem]">
         <div
           data-aos="fade-left"
-          data-aos-duration="800"
+          data-aos-duration="500"
           data-aos-easing="ease-in"
           class="flex justify-between relative z-50 items-center px-6 pt-8"
         >
@@ -22,7 +22,7 @@
           :src="nike"
           alt="nike"
           data-aos="fade-left"
-          data-aos-duration="800"
+          data-aos-duration="500"
           data-aos-easing="ease-in"
           class="mx-auto -mt-16"
         />
@@ -30,7 +30,7 @@
       <div
         class="pt-14 px-6 overflow-hidden"
         data-aos="fade-up"
-        data-aos-duration="800"
+        data-aos-duration="500"
         data-aos-easing="ease-in"
       >
         <div class="flex justify-between">
